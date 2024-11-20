@@ -40,7 +40,7 @@
 ```
 
 ### 🏆 Achievements
-- 🥇 **Top 5** position in Barclays Data Stellar Hackathon 2023 (200+ teams)
+- 🥇 **Top 5** position in Barclays Data Stellar Hackathon 2023 (200+ teams) as **Team Lead**
 - 💻 Solved **175+** coding problems on LeetCode and GeeksForGeeks
 - 👨‍💼 Served as Technical Head for Sports Committee and ACSES Committee at SPIT
 

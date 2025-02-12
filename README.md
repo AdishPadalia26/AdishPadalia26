@@ -2,7 +2,7 @@
   <img src="https://github.com/AdishPadalia26/AdishPadalia26/blob/main/banner.gif" alt="banner" />
 </div>
 <h1 align="center">Hi 👋, I'm Adish Padalia</h1>
-<h3 align="center">MS CS Student @ Rutgers | Part-time Lecturer | Research Publications in AI/ML | Full Stack Developer</h3>
+<h3 align="center">MS CS Student @ Rutgers | Teaching Assistant | Research Publications in AI/ML | Full Stack Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/adish-padalia" target="_blank">
@@ -15,7 +15,7 @@
 
 ### 🎓 About Me
 - 🎯 Currently pursuing **MS in Computer Science** at Rutgers University, New Brunswick
-- 👨‍🏫 Working as a **Part-time Lecturer** at Rutgers, teaching Database Management and Web Development
+- 👨‍🏫 Working as a **Teaching Assistant** at Rutgers, teaching Database Management, Web Development and Discrete Structures
 - 🔬 Published **3 research papers** in AI/ML domains
 - 🎯 Looking for **Summer Internship opportunities for 2025**
 - 🌱 Currently exploring **Generative AI and working with LLMs**
@@ -92,7 +92,7 @@
 
 ### 🏆 Achievements
 - 🥇 **Top 5** position in Barclays Data Stellar Hackathon 2023 (200+ teams) as **Team Lead**
-- 💻 Solved **175+** coding problems on LeetCode and GeeksForGeeks
+- 💻 Solved **200+** coding problems on LeetCode and GeeksForGeeks
 - 👨‍💼 Served as Technical Head for Sports Committee and ACSES Committee at SPIT
 
 ### 🌟 Experience Highlights

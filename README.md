@@ -5,7 +5,7 @@
 <h3 align="center">MS CS Student @ Rutgers | Teaching Assistant | Research Publications in AI/ML | Full Stack Developer</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/adish-padalia" target="_blank">
+  <a href="[https://linkedin.com/in/adish-padalia](https://www.linkedin.com/in/adish-padalia-a3768a230/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="adish-padalia" />
   </a>
   <a href="mailto:padaliaadish@gmail.com">

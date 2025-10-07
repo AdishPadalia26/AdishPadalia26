@@ -94,7 +94,7 @@
 - 🥇 **1st Place Winner – HackRU Fall 2025** (Rutgers’ flagship hackathon, 150+ teams)  
   🧠 Built **Construct Guard AI** — an **AI + Computer Vision** platform that analyzes live CCTV footage to detect PPE compliance (helmets, vests, gloves) and restricted-area violations.  
   💡 The system dynamically calculates **real-time insurance risk** using **YOLOv11** and **Gemini API**, helping construction managers improve safety and reduce premiums.  
-  🔗 [Project Demo](https://github.com/AdishPadalia26/Construct-Guard-AI) | [HackRU Website](https://hackru.org)
+
 
 - 🥈 **Top 5 – Barclays Data Stellar Hackathon 2023** (200+ teams)  
   📊 Developed a data-driven solution for business process optimization and led team of 4.

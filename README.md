@@ -91,9 +91,18 @@
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-%23FF6B6B.svg?style=for-the-badge&logo=generative-ai&logoColor=white)
 
 ### 🏆 Achievements
-- 🥇 **Top 5** position in Barclays Data Stellar Hackathon 2023 (200+ teams) as **Team Lead**
-- 💻 Solved **200+** coding problems on LeetCode and GeeksForGeeks
-- 👨‍💼 Served as Technical Head for Sports Committee and ACSES Committee at SPIT
+- 🥇 **1st Place Winner – HackRU Fall 2025** (Rutgers’ flagship hackathon, 150+ teams)  
+  🧠 Built **Construct Guard AI** — an **AI + Computer Vision** platform that analyzes live CCTV footage to detect PPE compliance (helmets, vests, gloves) and restricted-area violations.  
+  💡 The system dynamically calculates **real-time insurance risk** using **YOLOv11** and **Gemini API**, helping construction managers improve safety and reduce premiums.  
+  🔗 [Project Demo](https://github.com/AdishPadalia26/Construct-Guard-AI) | [HackRU Website](https://hackru.org)
+
+- 🥈 **Top 5 – Barclays Data Stellar Hackathon 2023** (200+ teams)  
+  📊 Developed a data-driven solution for business process optimization and led team of 4.
+
+- 👨‍💼 Served as **Technical Head** for Sports Committee & ACSES Committee @ SPIT (2022–23)
+
+- 💻 Solved **200+** coding problems on LeetCode & GeeksForGeeks
+
 
 ### 🌟 Experience Highlights
 - **Research Intern @ IIT Bombay** (2023)

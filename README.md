@@ -15,6 +15,7 @@
 
 ### 🎓 About Me
 - 🎯 Currently pursuing **MS in Computer Science** at Rutgers University, New Brunswick
+- 🥇 **1st Place Winner – HackRU Fall 2025** (Rutgers’ flagship hackathon, 150+ teams)  
 - 👨‍🏫 Working as a **Teaching Assistant** at Rutgers, teaching Database Management, Web Development and Discrete Structures
 - 🔬 Published **3 research papers** in AI/ML domains
 - 🎯 Looking for **Summer Internship opportunities for 2025**

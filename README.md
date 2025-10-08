@@ -2,7 +2,7 @@
   <img src="https://github.com/AdishPadalia26/AdishPadalia26/blob/main/banner.gif" alt="banner" />
 </div>
 <h1 align="center">Hi 👋, I'm Adish Padalia</h1>
-<h3 align="center">MS CS Student @ Rutgers | Teaching Assistant | Research Publications in AI/ML | Full Stack Developer</h3>
+<h3 align="center">MS CS Student @ Rutgers | Teaching Assistant| Software Developer | Machine Learning Engineer | Full Stack Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adish-padalia-a3768a230/" target="_blank">

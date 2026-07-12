@@ -147,7 +147,7 @@
 I'm always eager to connect with like-minded professionals and explore opportunities in the tech industry. Feel free to reach out for collaborations or discussions about:
 - 🤖 Machine Learning & AI
 - 💻 Full Stack Development
-- 📱 Mobile App Development
+- ⚙️ Software Engineering
 - 🎓 Academic Research
 - 👨‍🏫 Teaching & Mentoring
 

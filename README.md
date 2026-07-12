@@ -2,20 +2,20 @@
   <img src="https://github.com/AdishPadalia26/AdishPadalia26/blob/main/banner.gif" alt="banner" />
 </div>
 <h1 align="center">Hi 👋, I'm Adish Padalia</h1>
-<h3 align="center">MS CS Student @ Rutgers | Software Engineer | Machine Learning Engineer | Full Stack Developer</h3>
+<h3 align="center">MS CS Student @ Rutgers | Software Developer | Machine Learning Engineer | Full Stack Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adish-padalia-a3768a230/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="adish-padalia" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:padaliaadish@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" />
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar" />
   </a>
   <a href="https://adish-padalia-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 

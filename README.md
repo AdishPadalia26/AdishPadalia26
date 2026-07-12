@@ -123,18 +123,20 @@
 
 - 👨‍💼 Served as **Technical Head** for Sports Committee & ACSES Committee @ SPIT (2022–23)
 
-- 💻 Solved **200+** coding problems on LeetCode & GeeksForGeeks
+- 💻 Solved **300+** coding problems on LeetCode & GeeksForGeeks
 
 
 ### 🌟 Experience Highlights
+- **Graduate Research Assistant @ Rutgers University** (2025)
+  - Designed a multimodal 3D object detection pipeline fusing LiDAR and camera data
+  - Improved 3D localization accuracy by 25% over 2D baseline models
+  - Reduced manual annotation and correction time by 40% via automated cuboid generation
+    
 - **Research Intern @ IIT Bombay** (2023)
   - Developed innovative DL models for Brain MRI analysis
   - Achieved 99% accuracy in 3D Brain MRI skull-stripping
   - Reduced computational complexity to 2k trainable parameters
 
-- **Machine Learning Intern @ AI-DL Virtual Labs** (2022)
-  - Created 10 interactive ML/DL experiments
-  - Built full-stack platform serving 400+ students
 
 ### 📊 GitHub Stats
 <p align="center">

@@ -114,13 +114,12 @@
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-%23FF6B6B.svg?style=for-the-badge&logo=generative-ai&logoColor=white)
 
 ### 🏆 Achievements
-- 🥇 **1st Place Winner – HackRU Fall 2025** (Rutgers’ flagship hackathon, 150+ teams)  
-  🧠 Built **Construct Guard AI** — an **AI + Computer Vision** platform that analyzes live CCTV footage to detect PPE compliance (helmets, vests, gloves) and restricted-area violations.  
-  💡 The system dynamically calculates **real-time insurance risk** using **YOLOv11** and **Gemini API**, helping construction managers improve safety and reduce premiums.  
+- 🥇 **1st Place Winner – HackRU Fall 2025** (Rutgers’ flagship hackathon, 150+ teams)
+  - 🎯 Built **Construct Guard AI** — an **AI + Computer Vision** platform that analyzes live CCTV footage to detect PPE compliance (helmets, vests, gloves) and restricted-area violations
+  - 💡 The system dynamically calculates **real-time insurance risk** using **YOLOv11** and **Gemini API**, helping construction managers improve safety and reduce premiums
 
-
-- 🥈 **Top 5 – Barclays Data Stellar Hackathon 2023** (200+ teams)  
-  📊 Developed a data-driven solution for business process optimization and led team of 4.
+- 🥈 **Top 5 – Barclays Data Stellar Hackathon 2023** (200+ teams)
+  - 📊 Developed a data-driven solution for business process optimization and led a team of 4
 
 - 👨‍💼 Served as **Technical Head** for Sports Committee & ACSES Committee @ SPIT (2022–23)
 

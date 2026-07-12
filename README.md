@@ -107,11 +107,11 @@
 ![Claude](https://img.shields.io/badge/Claude-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
 
 #### Areas of Interest:
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=machine-learning&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23FF0000.svg?style=for-the-badge&logo=deep-learning&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-%2300A0E4.svg?style=for-the-badge&logo=natural-language-processing&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%23A8B9CC.svg?style=for-the-badge&logo=computer-vision&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-%23FF6B6B.svg?style=for-the-badge&logo=generative-ai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-%236A5ACD.svg?style=flat&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-%23FF6B6B.svg?style=flat&logo=generative-ai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=flat&logo=machine-learning&logoColor=white)
+![Software Engineering](https://img.shields.io/badge/Software%20Engineering-%23339933.svg?style=flat&logo=codesandbox&logoColor=white)
+![Cloud Infrastructure](https://img.shields.io/badge/Cloud%20Infrastructure-%234285F4.svg?style=flat&logo=icloud&logoColor=white)
 
 ### 🏆 Achievements
 - 🥇 **1st Place Winner – HackRU Fall 2025** (Rutgers’ flagship hackathon, 150+ teams)

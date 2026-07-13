@@ -150,7 +150,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AdishPadalia26&show_icons=true&theme=radical&count_private=true" alt="Adish's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AdishPadalia26&show_icons=true&theme=radical&count_private=true"alt="Adish's GitHub Stats" />
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=AdishPadalia26&theme=radical" alt="Adish's GitHub Streak" />
 </p>
 

@@ -21,11 +21,11 @@
 
 ### 🎓 About Me
 - 🎯 Recently completed **MS in Computer Science** at Rutgers University, New Brunswick (May 2026)
-- 🥇 1st Place Winner – HackRU Fall 2025 (Rutgers’ flagship hackathon, 150+ teams)
+- 🥇 3x Hackathon Winner: Columbia Get Hired Hack 2026: 1st of 50 teams; HackRU 2025: 1st of 450+ participants and Top 5 of 200 teams at Barclays Data Stellar 2023 (team lead)
 - 👨‍🏫 Worked as a **Teaching Assistant** at Rutgers, teaching Database Management, Web Development and Discrete Structures
 - 🔬 Published **3 research papers** in the AI/ML domain
 - 🎯 Looking for **Full-time opportunities for 2026**
-- 🌱 Currently exploring **Multi-agent systems and Agentic Ops**
+- 🌱 Currently exploring **Multi-agent systems, Agentic Ops and Cloud Infrastructure**
 - 📚 B.Tech in Information Technology from SPIT (Class Rank: 4th/100)
 
 ### 🔬 Research Publications
